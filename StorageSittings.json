@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "AzureStorageAccount": " "
+  }
+  /*AzureStorageAccount: Connection String Not The Key*/
+}
