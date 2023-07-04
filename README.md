@@ -1,5 +1,22 @@
+
 # Lambda Forums 
-A coding forum for Amateur Developers like stackoverflow.
+```A coding forum for Amateur Developers like stackoverflow.```
+
+------------------------------------------------------------------------------------------------------------
+
+## Technologies & Concepts
+### Technologies
+|`C#`|`ASP.NET Core 2.0`|`ASP.NET CORE Identity`|`LINQ`|
+|:--------|:--------|:--------|:--------|
+|`MSSQL`|`Html &CSS`|`Bootstrap`|`JavaScript`|  
+
+
+### Concepts  
+| `OOP`          | `MVC`          |`Design Patterns`|
+|  :--------     | :--------       |:--------       |
+
+------------------------------------------------------------------------------------------------------------
+
 ## Stories 
   ### Registered Users :
 
@@ -30,16 +47,3 @@ A coding forum for Amateur Developers like stackoverflow.
   ### Rating system:
   -  Based on how active users are at system (Adding posts or replies)
 
-------------------------------------------------------------------------------------------------------------
-
-## Technologies & Concepts
-| Technologies         |    Concepts    |
-| :--------            | :--------      |
-| `C#`                   | `OOP`            |
-| `ASP.NET Core 2.0`     | `MVC`            |
-| `ASP.NET CORE Identity`| `Design Patterns`|
-| `LINQ`                 |                |
-| `MSSQL`                |                |
-| `Html &CSS`            |                |
-| `Bootstrap`            |                |
-| `JavaScript`           |                |
