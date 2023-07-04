@@ -31,7 +31,7 @@
 
   -  CRUD on forum topics.
   -  Deactivate & Activate users.(Lockout)
-  -  CRUD on Posts With Pictures about specifec Forum Topic.
+  -  CRUD on Posts With Pictures about specific Forum Topic.
   -  CRUD on Replies with pictures to any Post.
   -  View all his recent posts at details page.
   -  Delete any reply.
