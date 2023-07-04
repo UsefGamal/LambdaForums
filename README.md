@@ -1,44 +1,45 @@
-It is a simple forum like stackoverflow or reddit but for begginer coders.
+# Lambda Forums 
+A coding forum for Amateur Developers like stackoverflow.
+## Stories 
+  ### Registered Users :
 
-(1) Registered Users :
+  -  CRUD on Posts With Pictures about specifec Forum Topic.
+  -  CRUD on Replies with pictures to any Post.
+  -  Change his Profile Image.
+  -  View all his recent posts at details page .
+  -  Delete any reply to his/her post.
+  -  Search by the global search or by the topic search.
 
-a- Can (Add/Delete/Edit) Posts With Pictures about specifec Forum Topic.
-b- (Add/Delete/Edit) Replies with pictures to any Post.
-c- Change his Profile Image.
-d- View all his recent posts at details page .
-e- Delete any reply to his/her post.
-f- search by the global search or by the topic search.
+  ### Admin :
 
-(2) Admin :
+  -  CRUD on forum topics.
+  -  Deactivate & Activate users.(Lockout)
+  -  CRUD on Posts With Pictures about specifec Forum Topic.
+  -  CRUD on Replies with pictures to any Post.
+  -  View all his recent posts at details page.
+  -  Delete any reply.
+  -  Delete any Post.
 
-a- Can (Add/Delete/Edit) forum topics.
-b- Can Deactivate & Activate users.(Lockout)
-c- Can (Add/Delete/Edit) Posts With Pictures about specifec Forum Topic.
-d- (Add/Delete/Edit) Replies with pictures to any Post.
-e- View all his recent posts at details page.
-f- Delete any reply.
-g- Delete any Post.
+  ### Unregistered Users:
 
-(3)Unregistered Users:
+  -  Search by the global search or by the topic search.
+  -  View the latest posts.
+  -  View any post and its replies.
+  -  Can Register using Facebook
 
-a- Search by the global search or by the topic search.
-b- View the latest posts.
-c- View any post and its replies.
-d- Can Register using Facebook
+  ### Rating system:
+  -  Based on how active users are at system (Adding posts or replies)
 
 ------------------------------------------------------------------------------------------------------------
 
--There is a rating system based on how active users are at our system (Adding posts or replies)
-
-
-Technologies & Concepts Used are:
-
-C#
-OOP
-MVC Architectural Design Pattern
-ASP.NET Core 2.0
-ASP.NET CORE Identity
-LINQ
-MSSQL
-Html &CSS
-JavaScript
+## Technologies & Concepts
+| Technologies         |    Concepts    |
+| :--------            | :--------      |
+| `C#`                   | `OOP`            |
+| `ASP.NET Core 2.0`     | `MVC`            |
+| `ASP.NET CORE Identity`| `Design Patterns`|
+| `LINQ`                 |                |
+| `MSSQL`                |                |
+| `Html &CSS`            |                |
+| `Bootstrap`            |                |
+| `JavaScript`           |                |
